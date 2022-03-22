@@ -1,0 +1,19 @@
+{
+  "name": "@sound-ws/audiowaveform-lambda-layer",
+  "author": "Sound Web Services LTD",
+  "version": "1.0.1-beta.0",
+  "description": "Static build of BBC audiowaveform packaged as a Lambda layer.",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "template.yaml",
+    "layer.zip"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sound-ws/audiowaveform-lambda-layer.git"
+  }
+}
