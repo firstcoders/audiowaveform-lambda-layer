@@ -23,8 +23,8 @@ Metadata:
   AWS::ServerlessRepo::Application:
     Name: sound-ws-audiowaveform-lambda-layer
     Description: >
-      Static build of FFmpeg/FFprobe/Sox/Lame for Amazon Linux 2,
-      packaged as a Lambda layer. Bundles FFmpeg N-56320-ge937457b7b-static, Sox v14.4.2 and Lame 3.99.5
+      Static build of BBC audiowaveform for Amazon Linux 2,
+      packaged as a Lambda layer. BBC audiowaveform v1.4.0
     Author: Sound Web Services
     SpdxLicenseId: GPL-3.0-or-later
     LicenseUrl: LICENSE.txt
