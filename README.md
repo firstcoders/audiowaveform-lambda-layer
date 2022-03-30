@@ -1,4 +1,4 @@
-# Audiowaveform Lambda Layer
+# General
 
 A lambda layer for Amazon Linux 2 AMIs
 
