@@ -10,6 +10,6 @@ This application provides a, `LayerVersion`, which points to a
 Lambda Layer ARN you can use with Lambda runtimes based on Amazon Linux 2 (such
 as the `nodejs10.x` runtime).
 
-## License
+# License
 
 - BBC Audiowaveform GPLv3 <https://github.com/bbc/audiowaveform/blob/master/COPYING>, Static build <https://github.com/reelcrafter/audiotool-builders> <https://github.com/bbc/audiowaveform>
