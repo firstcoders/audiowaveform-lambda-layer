@@ -1,4 +1,6 @@
-# Audiowaveform Lambda Layer for Amazon Linux 2 AMIs
+# Audiowaveform Lambda Layer
+
+A lambda layer for Amazon Linux 2 AMIs
 
 Bundles:
 
