@@ -6,7 +6,7 @@ Resources:
   LambdaLayer:
     Type: AWS::Serverless::LayerVersion
     Properties:
-      LayerName: audiowaveform
+      LayerName: !Sub '${AWS::StackName}-LambdaLayer'
       Description: Static build of Audiowaveform
       ContentUri: layer.zip
       CompatibleRuntimes:
