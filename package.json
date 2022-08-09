@@ -1,7 +1,7 @@
 {
   "name": "@sound-ws/audiowaveform-lambda-layer",
   "author": "Sound Web Services LTD",
-  "version": "1.0.2-beta.0",
+  "version": "1.0.2",
   "description": "Static build of BBC audiowaveform packaged as a Lambda layer.",
   "license": "SEE LICENSE IN LICENSE.txt",
   "publishConfig": {
