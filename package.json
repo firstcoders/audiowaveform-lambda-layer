@@ -1,9 +1,10 @@
 {
-  "name": "@sound-ws/audiowaveform-lambda-layer",
+  "name": "@soundws/audiowaveform-lambda-layer",
   "author": "Sound Web Services LTD",
-  "version": "1.0.2",
+  "version": "1.0.3-beta.0",
   "description": "Static build of BBC audiowaveform packaged as a Lambda layer.",
   "license": "SEE LICENSE IN LICENSE.txt",
+  "private": true,
   "publishConfig": {
     "access": "restricted",
     "registry": "https://npm.pkg.github.com/"
