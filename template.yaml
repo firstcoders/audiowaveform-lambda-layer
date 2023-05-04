@@ -21,7 +21,7 @@ Outputs:
 
 Metadata:
   AWS::ServerlessRepo::Application:
-    Name: sound-ws-audiowaveform-lambda-layer
+    Name: soundws-audiowaveform-lambda-layer
     Description: >
       Static build of BBC audiowaveform for Amazon Linux 2,
       packaged as a Lambda layer. BBC audiowaveform v1.4.0
