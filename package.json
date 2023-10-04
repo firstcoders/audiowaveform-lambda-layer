@@ -4,7 +4,7 @@
   "email": "support@firstcoders.co.uk",
   "bugs": "https://github.com/sound-ws/audiowaveform-lambda-layer/issues",
   "homepage": "https://github.com/sound-ws/audiowaveform-lambda-layer",
-  "version": "1.0.4-beta.3",
+  "version": "1.0.4-beta.4",
   "description": "Static build of BBC audiowaveform packaged as a Lambda layer.",
   "license": "SEE LICENSE IN LICENSE.txt",
   "contributors": [
@@ -32,5 +32,8 @@
     "prepublishOnly": "npm run build",
     "prepack": "rm -rf dist/ && mkdir -p dist/aws-sam && cp -R .aws-sam/build dist/aws-sam",
     "sam:publish": "npm run build && sam package --output-template-file packaged.yaml --s3-bucket $AWS_SAM_PACKAGE_BUCKET_NAME --region $AWS_REGION && sam publish --template packaged.yaml --region $AWS_REGION --semantic-version $npm_package_version"
+  },
+  "devDependencies": {
+    "esbuild": "^0.19.4"
   }
 }
