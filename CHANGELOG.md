@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.6-beta.0](https://github.com/sound-ws/audiowaveform-lambda-layer/compare/@soundws/audiowaveform-lambda-layer@1.0.5...@soundws/audiowaveform-lambda-layer@1.0.6-beta.0) (2024-03-08)
+
+**Note:** Version bump only for package @soundws/audiowaveform-lambda-layer
+
+
+
+
+
 ## [1.0.5](https://github.com/sound-ws/audiowaveform-lambda-layer/compare/@soundws/audiowaveform-lambda-layer@1.0.5-beta.0...@soundws/audiowaveform-lambda-layer@1.0.5) (2024-02-29)
 
 **Note:** Version bump only for package @soundws/audiowaveform-lambda-layer
