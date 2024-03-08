@@ -25,7 +25,7 @@ Metadata:
     Description: >
       Static build of BBC audiowaveform for Amazon Linux 2,
       packaged as a Lambda layer. BBC audiowaveform v1.4.0
-    Author: Sound Web Services
+    Author: Team First Coders
     SpdxLicenseId: GPL-3.0-or-later
     LicenseUrl: LICENSE.txt
     ReadmeUrl: README.md
