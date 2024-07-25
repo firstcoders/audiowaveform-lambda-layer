@@ -1,5 +1,6 @@
 {
   "name": "@firstcoders/audiowaveform-lambda-layer",
+  "private": true,
   "author": "The First Coders Team (https://www.firstcoders.co.uk)",
   "email": "support@firstcoders.co.uk",
   "bugs": "https://github.com/firstcoders/audiowaveform-lambda-layer/issues",
