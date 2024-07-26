@@ -21,7 +21,7 @@ Outputs:
 
 Metadata:
   AWS::ServerlessRepo::Application:
-    Name: firstcoders-audiowaveform-lambda-layer
+    Name: fc-audiowaveform-lambda-layer
     Description: >
       Static build of BBC audiowaveform for Amazon Linux 2,
       packaged as a Lambda layer. BBC audiowaveform v1.4.0
