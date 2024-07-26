@@ -30,6 +30,6 @@ Metadata:
     LicenseUrl: LICENSE.txt
     ReadmeUrl: README.md
     Labels: ['layer', 'lambda', 'audiowaveform']
-    HomePageUrl: https://github.com/sound-ws/audiowaveform-lambda-layer
+    HomePageUrl: https://github.com/firstcoders/audiowaveform-lambda-layer
     SemanticVersion: 0.1.0
-    SourceCodeUrl: https://github.com/sound-ws/audiowaveform-lambda-layer
+    SourceCodeUrl: https://github.com/firstcoders/audiowaveform-lambda-layer
